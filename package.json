@@ -1,20 +1,23 @@
 {
   "name": "promise-nats",
   "version": "1.0.0",
-  "description": "Promise based wrapper for nats client.",
+  "description": "Promise based wrapper for NATS client.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://matiasrustagte@bitbucket.org/matiasrustagte/promise-nats.git"
+    "url": "git+https://github.com/MatiasRust/promise-nats.git"
   },
   "keywords": [
-    "nats",
-    "promise"
+    "promise",
+    "nats"
   ],
   "author": "Anna Agte",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/matiasrustagte/promise-nats#readme"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatiasRust/promise-nats/issues"
+  },
+  "homepage": "https://github.com/MatiasRust/promise-nats#readme"
 }
